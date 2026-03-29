@@ -46,7 +46,7 @@ DynamoDB
 ```json
 {
   "name": "Raveesha",
-  "message": "Testing serverless application"
+  "message": "Testing serverless application deployment on AWS"
 }
 ```
 
